@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		F63A2E522D5DF03600AA2FC0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F63A2E392D5DF03500AA2FC0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F63A2E402D5DF03500AA2FC0;
+			remoteInfo = "Amunì";
+		};
+		F63A2E5C2D5DF03600AA2FC0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F63A2E392D5DF03500AA2FC0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F63A2E402D5DF03500AA2FC0;
+			remoteInfo = "Amunì";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F63A2E412D5DF03500AA2FC0 /* Amunì.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Amunì.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F63A2E512D5DF03600AA2FC0 /* AmunìTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AmunìTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F63A2E5B2D5DF03600AA2FC0 /* AmunìUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AmunìUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		F63A2E432D5DF03500AA2FC0 /* Amunì */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Amunì";
+			sourceTree = "<group>";
+		};
+		F63A2E542D5DF03600AA2FC0 /* AmunìTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "AmunìTests";
+			sourceTree = "<group>";
+		};
+		F63A2E5E2D5DF03600AA2FC0 /* AmunìUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "AmunìUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F63A2E3E2D5DF03500AA2FC0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F63A2E4E2D5DF03600AA2FC0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F63A2E582D5DF03600AA2FC0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F63A2E382D5DF03500AA2FC0 = {
+			isa = PBXGroup;
+			children = (
+				F63A2E432D5DF03500AA2FC0 /* Amunì */,
+				F63A2E542D5DF03600AA2FC0 /* AmunìTests */,
+				F63A2E5E2D5DF03600AA2FC0 /* AmunìUITests */,
+				F63A2E422D5DF03500AA2FC0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F63A2E422D5DF03500AA2FC0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F63A2E412D5DF03500AA2FC0 /* Amunì.app */,
+				F63A2E512D5DF03600AA2FC0 /* AmunìTests.xctest */,
+				F63A2E5B2D5DF03600AA2FC0 /* AmunìUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F63A2E402D5DF03500AA2FC0 /* Amunì */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F63A2E652D5DF03600AA2FC0 /* Build configuration list for PBXNativeTarget "Amunì" */;
+			buildPhases = (
+				F63A2E3D2D5DF03500AA2FC0 /* Sources */,
+				F63A2E3E2D5DF03500AA2FC0 /* Frameworks */,
+				F63A2E3F2D5DF03500AA2FC0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				F63A2E432D5DF03500AA2FC0 /* Amunì */,
+			);
+			name = "Amunì";
+			packageProductDependencies = (
+			);
+			productName = "Amunì";
+			productReference = F63A2E412D5DF03500AA2FC0 /* Amunì.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F63A2E502D5DF03600AA2FC0 /* AmunìTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F63A2E682D5DF03600AA2FC0 /* Build configuration list for PBXNativeTarget "AmunìTests" */;
+			buildPhases = (
+				F63A2E4D2D5DF03600AA2FC0 /* Sources */,
+				F63A2E4E2D5DF03600AA2FC0 /* Frameworks */,
+				F63A2E4F2D5DF03600AA2FC0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F63A2E532D5DF03600AA2FC0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				F63A2E542D5DF03600AA2FC0 /* AmunìTests */,
+			);
+			name = "AmunìTests";
+			packageProductDependencies = (
+			);
+			productName = "AmunìTests";
+			productReference = F63A2E512D5DF03600AA2FC0 /* AmunìTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F63A2E5A2D5DF03600AA2FC0 /* AmunìUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F63A2E6B2D5DF03600AA2FC0 /* Build configuration list for PBXNativeTarget "AmunìUITests" */;
+			buildPhases = (
+				F63A2E572D5DF03600AA2FC0 /* Sources */,
+				F63A2E582D5DF03600AA2FC0 /* Frameworks */,
+				F63A2E592D5DF03600AA2FC0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F63A2E5D2D5DF03600AA2FC0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				F63A2E5E2D5DF03600AA2FC0 /* AmunìUITests */,
+			);
+			name = "AmunìUITests";
+			packageProductDependencies = (
+			);
+			productName = "AmunìUITests";
+			productReference = F63A2E5B2D5DF03600AA2FC0 /* AmunìUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F63A2E392D5DF03500AA2FC0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					F63A2E402D5DF03500AA2FC0 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					F63A2E502D5DF03600AA2FC0 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = F63A2E402D5DF03500AA2FC0;
+					};
+					F63A2E5A2D5DF03600AA2FC0 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = F63A2E402D5DF03500AA2FC0;
+					};
+				};
+			};
+			buildConfigurationList = F63A2E3C2D5DF03500AA2FC0 /* Build configuration list for PBXProject "Amunì" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F63A2E382D5DF03500AA2FC0;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = F63A2E422D5DF03500AA2FC0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F63A2E402D5DF03500AA2FC0 /* Amunì */,
+				F63A2E502D5DF03600AA2FC0 /* AmunìTests */,
+				F63A2E5A2D5DF03600AA2FC0 /* AmunìUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F63A2E3F2D5DF03500AA2FC0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F63A2E4F2D5DF03600AA2FC0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F63A2E592D5DF03600AA2FC0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F63A2E3D2D5DF03500AA2FC0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F63A2E4D2D5DF03600AA2FC0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F63A2E572D5DF03600AA2FC0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F63A2E532D5DF03600AA2FC0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F63A2E402D5DF03500AA2FC0 /* Amunì */;
+			targetProxy = F63A2E522D5DF03600AA2FC0 /* PBXContainerItemProxy */;
+		};
+		F63A2E5D2D5DF03600AA2FC0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F63A2E402D5DF03500AA2FC0 /* Amunì */;
+			targetProxy = F63A2E5C2D5DF03600AA2FC0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		F63A2E632D5DF03600AA2FC0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F63A2E642D5DF03600AA2FC0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F63A2E662D5DF03600AA2FC0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Amunì/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Arte.Amuni-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F63A2E672D5DF03600AA2FC0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Amunì/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Arte.Amuni-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F63A2E692D5DF03600AA2FC0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Arte.Amuni-Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Amunì.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Amunì";
+			};
+			name = Debug;
+		};
+		F63A2E6A2D5DF03600AA2FC0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Arte.Amuni-Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Amunì.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Amunì";
+			};
+			name = Release;
+		};
+		F63A2E6C2D5DF03600AA2FC0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Arte.Amuni-UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Amunì";
+			};
+			name = Debug;
+		};
+		F63A2E6D2D5DF03600AA2FC0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Arte.Amuni-UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Amunì";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F63A2E3C2D5DF03500AA2FC0 /* Build configuration list for PBXProject "Amunì" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F63A2E632D5DF03600AA2FC0 /* Debug */,
+				F63A2E642D5DF03600AA2FC0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F63A2E652D5DF03600AA2FC0 /* Build configuration list for PBXNativeTarget "Amunì" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F63A2E662D5DF03600AA2FC0 /* Debug */,
+				F63A2E672D5DF03600AA2FC0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F63A2E682D5DF03600AA2FC0 /* Build configuration list for PBXNativeTarget "AmunìTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F63A2E692D5DF03600AA2FC0 /* Debug */,
+				F63A2E6A2D5DF03600AA2FC0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F63A2E6B2D5DF03600AA2FC0 /* Build configuration list for PBXNativeTarget "AmunìUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F63A2E6C2D5DF03600AA2FC0 /* Debug */,
+				F63A2E6D2D5DF03600AA2FC0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F63A2E392D5DF03500AA2FC0 /* Project object */;
+}
